@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+
+^build\.R$
+^data-raw\.*$
+^cran-comments.md
+^README.rmd.*$
+^docs\.*$
+
